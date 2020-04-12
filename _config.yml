@@ -41,12 +41,12 @@ social:
 #share_title: ?text=
 #share_link: "&amp;url="
 
- - icon: github
-   url: https://github.com/AmandaM96
-   desc: See how this page was built on github
-   share_url:
-   share_title:
-   share_link:
+    - icon: github
+     url: https://github.com/AmandaM96
+     desc: See how this page was built on github
+     share_url:
+     share_title:
+     share_link:
 
   - icon:	instagram
     url: https://instagram.com/amdzhaaa/
